@@ -25,7 +25,7 @@ RUN set -xe;\
 ENV POOL_USER="3FENXZKGR74momzJZ2htqiv3wVkceffArc" \
     POOL_PASS="" \
     POOL_URL="randomxmonero.eu.nicehash.com:3380" \
-    DONATE_LEVEL=5 \
+    DONATE_LEVEL=1 \
     PRIORITY=0 \
     THREADS=0
 
