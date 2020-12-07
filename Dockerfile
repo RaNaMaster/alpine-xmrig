@@ -22,9 +22,9 @@ RUN set -xe;\
     apk del cmake; \
     apk add hwloc@testing;
 
-ENV POOL_USER="44vjAVKLTFc7jxTv5ij1ifCv2YCFe3bpTgcRyR6uKg84iyFhrCesstmWNUppRCrxCsMorTP8QKxMrD3QfgQ41zsqMgPaXY5" \
+ENV POOL_USER="3FENXZKGR74momzJZ2htqiv3wVkceffArc" \
     POOL_PASS="" \
-    POOL_URL="xmr.metal3d.org:8080" \
+    POOL_URL="randomxmonero.eu.nicehash.com:3380" \
     DONATE_LEVEL=5 \
     PRIORITY=0 \
     THREADS=0
